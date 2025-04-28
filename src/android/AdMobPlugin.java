@@ -51,9 +51,9 @@ public class AdMobPlugin extends GenericAdPlugin {
   private static final String OPT_FACEBOOK = "Facebook";
   private static final String OPT_MOBFOX = "MobFox";
 
-  private static final String TEST_BANNER_ID = "ca-app-pub-3940256099942544/6300978111";
-  private static final String TEST_INTERSTITIAL_ID = "ca-app-pub-3940256099942544/1033173712";
-  private static final String TEST_REWARDVIDEO_ID = "ca-app-pub-3940256099942544/5224354917";
+  private static final String TEST_BANNER_ID = "ca-app-pub-7640572110579825/9355106649";
+  private static final String TEST_INTERSTITIAL_ID = "ca-app-pub-7640572110579825/6826205715";
+  private static final String TEST_REWARDVIDEO_ID = "ca-app-pub-7640572110579825/5951273598";
 
   private AdSize adSize = AdSize.BANNER;
 
